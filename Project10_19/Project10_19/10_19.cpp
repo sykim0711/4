@@ -3,7 +3,10 @@
 static int globalNum = 100;
 #define _CRT_SECURE_NO_WARNINGS
 
-int git = 0, test = 0;
+void exe3() {
+	int test = 0;
+	int a = 0;
+}
 
 										//문제풀이
 
